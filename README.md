@@ -1,5 +1,4 @@
-ChatGPT said:
-Runbook — Activities app (backend, web, mobile)
+ Activities app (backend, web, mobile)
 
 Short, exact. Follow steps in order. Commands assume project root contains backend/, frontend/, and mobile/ folders. Adjust paths if your layout differs.
 
@@ -169,5 +168,6 @@ Start backend: cd backend && npm run start:dev.
 Start frontend: cd frontend && npm run dev.
 
 Start mobile (if needed): cd mobile && npx expo start.
+
 
 Test create in frontend or mobile. Confirm subscription updates appear on other clients.
